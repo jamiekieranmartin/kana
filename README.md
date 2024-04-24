@@ -1,3 +1,9 @@
-# go-template
+# kana
 
-template for go libraries
+practice hiragana and katakana
+
+## Usage
+
+```sh
+$ kana -help 
+```

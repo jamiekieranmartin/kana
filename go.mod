@@ -1,3 +1,3 @@
-module github.com/jamiekieranmartin/go-template
+module github.com/jamiekieranmartin/kana
 
-go 1.18
+go 1.22
